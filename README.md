@@ -1,7 +1,5 @@
-codingHabit
-===========
 cpp 프로그래밍 연습!
---------------------
+====================
 ## cpp 코딩 스타일 가이드
 [coogle c++ style guide, 2020](https://google.github.io/styleguide/cppguide.html)
 ***
